@@ -2,6 +2,10 @@
 This repository contains the experimental data used in the paper:
 "Experimental Study of Submarine Landslide Tsunami in Stratified Sand and Silt Layers on a Gentle Slope"
 
+## Data availability
+- Experimental data (TXT): GitHub repository (DOI: https://doi.org/10.5281/zenodo.17668077)
+- Videos of landslide motion: Zenodo (DOI: https://doi.org/10.5281/zenodo.17667882)
+
 ## Repository Structure
 - `Case_A1_time_series.txt` : Time-series data for Case A1
 - `Case_A1_summary.txt` to `Case_C1_summary.txt` : Maximum and minimum water levels for each trial in Cases A1–C1
